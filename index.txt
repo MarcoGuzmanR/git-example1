@@ -3,3 +3,5 @@ Hello, this is the first commit
 This line is for a second commit
 
 This line is for a third commit
+
+This line is for a fourth commit
