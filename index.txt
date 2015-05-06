@@ -9,3 +9,5 @@ This line is for a fourth commit
 This line is for a fifth commit
 
 This line is for a sixth commit
+
+This line is for a seventh commit
